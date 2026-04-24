@@ -1,3 +1,4 @@
 [submodule "scape"]
 	path = scape
-	url = https://github.com/Prompt-or-Die-Labs/scape
+	url = https://github.com/olongjohnson/scape
+	branch = main
