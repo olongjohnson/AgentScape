@@ -1,0 +1,9 @@
+# Playwright MCP session artifacts (screenshots + snapshot yml + console logs)
+.playwright-mcp/
+
+# Ad-hoc screenshots land in repo root by default; keep repo clean by
+# gitignoring them. Curated milestone shots belong in docs/screenshots/.
+/*.png
+
+# OS detritus
+.DS_Store
