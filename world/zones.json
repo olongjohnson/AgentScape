@@ -1,0 +1,20 @@
+{
+  "_comment": "Tile coords for the dev-studio island. Pin these once we can eyeball positions in-world; placeholders for now.",
+  "spawn": { "x": 3222, "z": 3218, "level": 0 },
+  "landmarks": {
+    "ge": { "x": 3164, "z": 3489, "level": 0 },
+    "lumbridge": { "x": 3222, "z": 3218, "level": 0 },
+    "office_desk": { "x": 3225, "z": 3220, "level": 0 },
+    "throne": { "x": 3230, "z": 3225, "level": 0 }
+  },
+  "tools": {
+    "read": { "x": 3210, "z": 3424, "level": 0, "_label": "library/bookshelves" },
+    "write": { "x": 3187, "z": 3425, "level": 0, "_label": "smithing anvil" },
+    "shell": { "x": 3275, "z": 3186, "level": 0, "_label": "cooking range" },
+    "web": { "x": 3105, "z": 3162, "level": 0, "_label": "magic/runic circle" },
+    "chat": { "x": 3230, "z": 3225, "level": 0, "_label": "throne/megaphone" },
+    "memory": { "x": 3253, "z": 3422, "level": 0, "_label": "bank chest" },
+    "subagent": { "x": 3221, "z": 3219, "level": 0, "_label": "spawn portal" },
+    "default": { "x": 3225, "z": 3220, "level": 0, "_label": "office desk" }
+  }
+}

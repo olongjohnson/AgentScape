@@ -7,3 +7,7 @@
 
 # OS detritus
 .DS_Store
+
+# Bridge build artifacts + secrets
+bridge/node_modules/
+bridge/.env

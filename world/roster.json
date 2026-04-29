@@ -1,0 +1,10 @@
+{
+  "_comment": "Always-on bot roster. IBoxBears is the human (browser auto-login), so the bridge does NOT spawn it — only OpenClaw bot-side.",
+  "pinned": [
+    {
+      "agentId": "agent:main",
+      "displayName": "OpenClaw",
+      "source": { "kind": "session", "sessionPrefix": "agent:main:" }
+    }
+  ]
+}
